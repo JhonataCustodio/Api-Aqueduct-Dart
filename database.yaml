@@ -1,0 +1,5 @@
+username: postgres
+password: maristela123
+host: localhost
+port: 8424
+databaseName: postgres
